@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ackie-chan
-- 👀 I’m interested in ... ethical hacking
-- 🌱 I’m currently learning ... ethical hacking
+- 👀 I’m interested in ... coding
+- 🌱 I’m currently learning ...js,python and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
