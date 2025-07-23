@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...python and numpy pandas 
 - 💞️ I’m looking forward to be a AI python developer
-- 📫 How to reach me ...
+
 
 <!---
 ackie-chan/ackie-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
