@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ackie-chan
+- 👋 Hi, I’m yasir kham
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...python and numpy pandas 
+- 🌱 I’m currently learning ...python and golang
 - 💞️ I’m looking forward to be a AI python developer
 
 
